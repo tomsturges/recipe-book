@@ -9,5 +9,7 @@
 - mushrooms
 - onions
 
+## Instructions
 
-## TODO: we need the instructions
+- cook, mix and serve
+
