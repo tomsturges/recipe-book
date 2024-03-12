@@ -52,3 +52,7 @@
    - Let the lasagna cool for 10-15 minutes before slicing.
    - Garnish with fresh basil leaves if desired.
    - Serve warm and enjoy!
+7. **Enjoy**
+   - Buen appetite
+8. **Bravo**
+   - Congratulations you have a good vegeterian meal
