@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Sausage
+- "Curry" (aka tomato sauce)
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Chop sausage
+- Add sauce
