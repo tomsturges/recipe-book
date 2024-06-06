@@ -10,3 +10,4 @@
 
 - Chop sausage
 - Add sauce
+- Add spices
